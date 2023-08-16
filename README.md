@@ -8,3 +8,6 @@ docker build -t donnyrax/restore .
 
 # Run docker image
 docker run --rm -it -p 8080:80 donnyrax/restore
+
+# Push to docker hub
+docker push donnyrax/restore:latest
