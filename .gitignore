@@ -481,4 +481,3 @@ src/API/appsettings.json
 courseAssets.zip
 *.db-shm
 *.db-wal
-src/API/wwwroot
